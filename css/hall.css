@@ -22,12 +22,6 @@ header {
     padding: 20px 30px;
     max-width: 940px;
     margin: auto;
-    background-image: url("images/websitebanner.png");
-    background-color: #cccccc; 
-    height: 500px; 
-    background-position: center; 
-    background-repeat: no-repeat;
-    background-size: cover; 
 }
 nav {
     display: inline-block;
